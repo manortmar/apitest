@@ -3,7 +3,7 @@ product: "1.0.0"
 info:
   name: "goods-and-services"
   title: "Goods And Services"
-  version: "1.0.0"
+  version: "1.1.0"
 visibility:
   view:
     enabled: true
@@ -17,7 +17,7 @@ visibility:
     orgs: []
 apis:
   goods-and-services:
-    $ref: "goods-and-services_1.0.0.yaml"
+    $ref: "goods-and-services_1.1.0.yaml"
 plans:
   default:
     title: "Default Plan"
